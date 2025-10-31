@@ -10,7 +10,7 @@ Tired of manually copying and pasting dozens of files to provide context for you
 
 ### Demonstration
 
-![Demonstration GIF](https://github.com/rahathasan5773/export-code-context/blob/5910961ea2a4a365aee6a20d568911ca35d9ca3c/export-code-context.gif)
+![Demonstration GIF](https://raw.githubusercontent.com/rahathasan5773/export-code-context/refs/heads/main/export-code-context.gif)
 
 ---
 
