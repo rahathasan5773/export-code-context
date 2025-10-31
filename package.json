@@ -10,9 +10,9 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rahathasan/export-code-context.git"
+    "url": "https://github.com/rahathasan5773/export-code-context.git"
   },
-  "homepage": "https://github.com/rahathasan/export-code-context",
+  "homepage": "https://github.com/rahathasan5773/export-code-context",
   "categories": [
     "Other",
     "Formatters"

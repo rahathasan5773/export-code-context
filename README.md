@@ -1,6 +1,6 @@
 # Export Code Context
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rahathasan.export-code-context?color=blue&label=VS%20Marketplace)![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rahathasan.export-code-context?color=green)![GitHub License](https://img.shields.io/github/license/rahathasan/export-code-context)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rahathasan.export-code-context?color=blue&label=VS%20Marketplace)![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rahathasan.export-code-context?color=green)![GitHub License](https://img.shields.io/github/license/rahathasan5773/export-code-context)
 
 **Instantly consolidate and export code from any file or folder directly into a single, clean text file or your clipboard. Perfect for working with Large Language Models (like GPT-4, Gemini, Claude), creating documentation, or sharing code for review.**
 
