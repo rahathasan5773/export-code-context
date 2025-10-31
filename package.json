@@ -2,7 +2,7 @@
   "name": "export-code-context",
   "displayName": "Export Code Context",
   "description": "Easily export the code from a folder or file.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "rahathasan",
   "engines": {
     "vscode": "^1.105.0"
